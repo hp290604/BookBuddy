@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BookBuddy/static/css/main.f545579f.css",
+    "main.js": "/BookBuddy/static/js/main.c0926a5d.js",
+    "static/js/453.326e8a02.chunk.js": "/BookBuddy/static/js/453.326e8a02.chunk.js",
+    "static/media/bgn.png": "/BookBuddy/static/media/bgn.23b79946122ce064c122.png",
+    "static/media/mumbai.png": "/BookBuddy/static/media/mumbai.2d3c5e6df179ea260a85.png",
+    "static/media/jpr.png": "/BookBuddy/static/media/jpr.b68120c8d428d45803b4.png",
+    "index.html": "/BookBuddy/index.html",
+    "main.f545579f.css.map": "/BookBuddy/static/css/main.f545579f.css.map",
+    "main.c0926a5d.js.map": "/BookBuddy/static/js/main.c0926a5d.js.map",
+    "453.326e8a02.chunk.js.map": "/BookBuddy/static/js/453.326e8a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f545579f.css",
+    "static/js/main.c0926a5d.js"
+  ]
+}
