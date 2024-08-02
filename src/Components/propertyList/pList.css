@@ -1,0 +1,20 @@
+.pList{
+    display:flex;
+    width:100%;
+    gap:20px;
+    max-width:1024px;
+    justify-content:space-between;
+}
+.pListItem{
+    border-radius:8px;
+    border:1px solid lightgray ;
+    padding:1px 1px;
+    overflow:hidden;
+    cursor:pointer;
+
+}
+.pListImg{
+    width:280px;
+    height:170px;
+    object-fit:cover;
+}
